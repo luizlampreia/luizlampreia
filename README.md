@@ -3,7 +3,8 @@
 
 ## 💡 Sobre mim
 - 🎓 **Bacharel em Ciências e Tecnologia**  
-- 📚 Pós-graduação em **Ciência de Dados e Inteligência Artificial**  
+- 📚 Pós-graduação em **Ciência de Dados e Inteligência Artificial**
+- 📚 Pós-graduação em **Gestão da Ti**  
 - 💻 Apaixonado por programação, estatística e IA.  
 
 ## 🚀 Tecnologias & Ferramentas
