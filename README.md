@@ -2,7 +2,8 @@
 # 👋 **Sejam bem Vindos!**  
 
 ## 💡 Sobre mim
-- 🎓 **Bacharel em Ciências e Tecnologia**  
+- 🎓 **Bacharel em Ciências e Tecnologia**
+- 🎓 **Bacharel em Engenharia Biomedica**  
 - 📚 Pós-graduação em **Ciência de Dados e Inteligência Artificial**
 - 📚 Pós-graduação em **Gestão da Ti**  
 - 💻 Apaixonado por programação, estatística e IA.  
