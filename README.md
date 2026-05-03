@@ -50,7 +50,7 @@ insights relevantes e soluções inovadoras.
 
 ## 📊 Estatísticas do GitHub
 ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luizlampreia&theme=dracula)
-
+![Streak](https://streak-stats.demolab.com?user=luizlampreia&theme=dracula)
 ---
 
 ## 🌐 Conecte-se comigo
