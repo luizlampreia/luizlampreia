@@ -49,9 +49,7 @@ insights relevantes e soluções inovadoras.
 ---
 
 ## 📊 Estatísticas do GitHub
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=luizlampreia&show_icons=true&theme=dracula&cache_seconds=86400)
-
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=luizlampreia&layout=compact&theme=dracula&cache_seconds=86400)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luizlampreia&theme=dracula)
 
 ---
 
